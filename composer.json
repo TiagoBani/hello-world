@@ -1,0 +1,19 @@
+{
+    "name": "tiagobani/hello-world",
+    "description": "hello world packagist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tiago Bani",
+            "email": "tiago.bani@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TiagoBani\\HelloWorld\\": "src/"
+        }
+    }
+}
