@@ -8,4 +8,5 @@ class Hello {
 
 		echo "Hello world!";
 	}
+	
 }
